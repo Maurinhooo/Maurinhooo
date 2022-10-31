@@ -1,13 +1,10 @@
 ### Hi I'm Maurinho! Nice to meet ya 😎👋
 
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning JavaScript 
-- 🤔 I’m looking for help with learn how to program
+- 🤔 I’m looking for help with learning how to program
 - 📫 How to reach me: maurotjj@gmail.com
 - ⚡ Fun fact: I'm also a writer
--->
 
 
 <div align="center">
@@ -24,4 +21,5 @@ Here are some ideas to get you started:
   
   <div>
          <a href="https://www.linkedin.com/in/mauro-angelino-362b17225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
    </div>
